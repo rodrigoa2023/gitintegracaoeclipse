@@ -6,6 +6,7 @@ public class TesteIntegGithub {
 		// TODO Auto-generated method stub
 
 		System.out.println("Olá");
+		System.out.println("Fazendo alteração");
 
 	}
 }
